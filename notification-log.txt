@@ -1,0 +1,84 @@
+2023-12-12T09:25:01.248Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T09:25:01.253Z: BTC is on the move. The price is down -1.01% in 24 hrs to $41994.528875433214
+2023-12-12T09:25:01.255Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T09:25:01.256Z: BTC is on the move. The price is down -1.01% in 24 hrs to $41994.528875433214
+2023-12-12T09:25:01.835Z: Alert: ETH price is above the maximum threshold!
+2023-12-12T09:25:01.836Z: ETH is on the move. The price is down -0.74% in 24 hrs to $2231.9152467753106
+2023-12-12T09:30:01.026Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T09:30:01.029Z: BTC is on the move. The price is down -0.63% in 24 hrs to $42055.320195252156
+2023-12-12T09:30:01.030Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T09:30:01.032Z: BTC is on the move. The price is down -0.63% in 24 hrs to $42055.320195252156
+2023-12-12T09:30:01.100Z: Alert: ETH price is above the maximum threshold!
+2023-12-12T09:30:01.101Z: ETH is on the move. The price is down -0.6% in 24 hrs to $2232.446309177385
+2023-12-12T09:35:01.058Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T09:35:01.058Z: BTC is on the move. The price is down -0.76% in 24 hrs to $42008.29042785636
+2023-12-12T09:35:01.059Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T09:35:01.060Z: BTC is on the move. The price is down -0.76% in 24 hrs to $42008.29042785636
+2023-12-12T09:35:01.097Z: Alert: ETH price is above the maximum threshold!
+2023-12-12T09:35:01.098Z: ETH is on the move. The price is down -0.66% in 24 hrs to $2232.3365481196074
+2023-12-12T09:40:01.826Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T09:40:01.827Z: BTC is on the move. The price is down -1.45% in 24 hrs to $41839.52007324286
+2023-12-12T09:40:01.828Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T09:40:01.829Z: BTC is on the move. The price is down -1.45% in 24 hrs to $41839.52007324286
+2023-12-12T09:40:01.898Z: Alert: ETH price is above the maximum threshold!
+2023-12-12T09:40:01.899Z: ETH is on the move. The price is down -0.81% in 24 hrs to $2229.966929192643
+2023-12-12T09:45:01.156Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T09:45:01.157Z: BTC is on the move. The price is down -1.24% in 24 hrs to $41844.006603720554
+2023-12-12T09:45:01.158Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T09:45:01.159Z: BTC is on the move. The price is down -1.24% in 24 hrs to $41844.006603720554
+2023-12-12T09:45:01.236Z: Alert: ETH price is above the maximum threshold!
+2023-12-12T09:45:01.236Z: ETH is on the move. The price is down -0.86% in 24 hrs to $2228.7375939995504
+2023-12-12T10:00:01.441Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T10:00:01.447Z: BTC is on the move. The price is down -1.11% in 24 hrs to $41955.41115091969
+2023-12-12T10:00:01.450Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T10:00:01.451Z: BTC is on the move. The price is down -1.11% in 24 hrs to $41955.41115091969
+2023-12-12T10:00:01.897Z: Alert: ETH price is above the maximum threshold!
+2023-12-12T10:00:01.898Z: ETH is on the move. The price is down -0.94% in 24 hrs to $2227.453630271317
+2023-12-12T10:05:01.346Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T10:05:01.351Z: BTC is on the move. The price is down -1.56% in 24 hrs to $41817.78299082258
+2023-12-12T10:05:01.354Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T10:05:01.355Z: BTC is on the move. The price is down -1.56% in 24 hrs to $41817.78299082258
+2023-12-12T10:05:01.910Z: Alert: ETH price is above the maximum threshold!
+2023-12-12T10:05:01.911Z: ETH is on the move. The price is down -1.09% in 24 hrs to $2226.407679028921
+2023-12-12T10:10:01.036Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T10:10:01.037Z: BTC is on the move. The price is down -1.45% in 24 hrs to $41868.43416880108
+2023-12-12T10:10:01.038Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T10:10:01.038Z: BTC is on the move. The price is down -1.45% in 24 hrs to $41868.43416880108
+2023-12-12T10:10:01.098Z: Alert: ETH price is above the maximum threshold!
+2023-12-12T10:10:01.099Z: ETH is on the move. The price is down -1.08% in 24 hrs to $2227.5704781419518
+2023-12-12T10:15:01.082Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T10:15:01.087Z: BTC is on the move. The price is down -1.69% in 24 hrs to $41790.991986046945
+2023-12-12T10:15:01.089Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T10:15:01.090Z: BTC is on the move. The price is down -1.69% in 24 hrs to $41790.991986046945
+2023-12-12T10:15:01.696Z: Alert: ETH price is above the maximum threshold!
+2023-12-12T10:15:01.696Z: ETH is on the move. The price is down -1.17% in 24 hrs to $2225.876967046655
+2023-12-12T10:30:01.374Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T10:30:01.381Z: BTC is on the move. The price is down -1.67% in 24 hrs to $41762.64055278958
+2023-12-12T10:30:01.383Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T10:30:01.384Z: BTC is on the move. The price is down -1.67% in 24 hrs to $41762.64055278958
+2023-12-12T10:30:01.468Z: Alert: ETH price is above the maximum threshold!
+2023-12-12T10:30:01.470Z: ETH is on the move. The price is down -1.13% in 24 hrs to $2223.593440461727
+2023-12-12T10:35:01.074Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T10:35:01.075Z: BTC is on the move. The price is down -1.45% in 24 hrs to $41851.4466237393
+2023-12-12T10:35:01.077Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T10:35:01.079Z: BTC is on the move. The price is down -1.45% in 24 hrs to $41851.4466237393
+2023-12-12T10:35:01.146Z: Alert: ETH price is above the maximum threshold!
+2023-12-12T10:35:01.147Z: ETH is on the move. The price is down -1.04% in 24 hrs to $2223.391323983186
+2023-12-12T10:40:01.138Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T10:40:01.162Z: BTC is on the move. The price is down -1.76% in 24 hrs to $$41,732.24
+2023-12-12T10:40:01.163Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T10:40:01.164Z: BTC is on the move. The price is down -1.76% in 24 hrs to $$41,732.24
+2023-12-12T10:40:01.742Z: Alert: ETH price is above the maximum threshold!
+2023-12-12T10:40:01.746Z: ETH is on the move. The price is down -1.05% in 24 hrs to $$2,223.25
+2023-12-12T10:45:01.254Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T10:45:01.283Z: BTC is on the move. The price is down -1.41% in 24 hrs to $41,861.90
+2023-12-12T10:45:01.284Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T10:45:01.285Z: BTC is on the move. The price is down -1.41% in 24 hrs to $41,861.90
+2023-12-12T10:45:01.921Z: Alert: ETH price is above the maximum threshold!
+2023-12-12T10:45:01.923Z: ETH is on the move. The price is down -0.99% in 24 hrs to $2,223.57
+2023-12-12T10:50:01.290Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T10:50:01.291Z: BTC is on the move. The price is down -1.44% in 24 hrs to $41,769.20
+2023-12-12T10:50:01.292Z: Alert: BTC price is above the maximum threshold!
+2023-12-12T10:50:01.292Z: BTC is on the move. The price is down -1.44% in 24 hrs to $41,769.20
+2023-12-12T10:50:01.356Z: Alert: ETH price is above the maximum threshold!
+2023-12-12T10:50:01.356Z: ETH is on the move. The price is down -0.85% in 24 hrs to $2,226.12
