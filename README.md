@@ -5,8 +5,8 @@
 ### Table of Contents
 
 * Getting Started
-    -Installation
-    -Configuration
+   1. Installation
+   2. Configuration
 * Technologies Used
 
 
