@@ -1,6 +1,6 @@
 ## Project Name
 
-**A brief description of your project and its functionalities.**
+**Develop a notification system for cryptocurrencies that monitors price changes and alerts users based on their watchlist.**
 
 ### Table of Contents
 
@@ -14,9 +14,9 @@
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-project-name.git`
-2. Install dependencies: `npm install`
-3. Start the application: `npm start`
+1. Clone the repository: `git clone git@github.com:Sirbinod/crypto-notifier-be.git`
+2. Install dependencies: `npm install or yarn`
+3. Start the application: `npm start or yarn start`
 
 ###Configuration
 Create a .env file in the root of the project and add env variable (env.example)
