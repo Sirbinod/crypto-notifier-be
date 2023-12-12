@@ -4,6 +4,8 @@ import dotenv from "dotenv";
 import { connectToDatabase } from "./libs/db";
 import routes from "./routes";
 import { CryptoScraper } from "./services/scrapingService";
+import errorHandler from "./middlewares/errorHandler";
+import { Notification } from "./services/notificationService";
 
 dotenv.config();
 
@@ -15,15 +17,21 @@ app.use(express.json());
 
 app.use("/api/v1", routes);
 
+// Use the global error handling middleware
+app.use(errorHandler);
+
 connectToDatabase().then(() => {
   // // Start the server
   app.listen(process.env.PORT || 3000, () => {
     console.log(`Server listening on port ${process.env.PORT || 3000}`);
   });
   const cryptoScraper = new CryptoScraper();
+  const notificationServer = new Notification()
 
   // Start the scraping process
   cryptoScraper.startScraping();
+
+  notificationServer.SendNotification()
 }).catch((err) => {
   console.log(err);
   process.exit(1);
