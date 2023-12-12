@@ -16,7 +16,7 @@
 
 1. Clone the repository: `git clone git@github.com:Sirbinod/crypto-notifier-be.git`
 2. Install dependencies: `npm install or yarn`
-3. Start the application: `npm start or yarn start`
+3. Start the application: `npm dev or yarn dev`
 
 ###Configuration
 Create a .env file in the root of the project and add env variable (env.example)
