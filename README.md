@@ -1,4 +1,4 @@
-## Project Name
+## Crypto Notifier
 
 **Develop a notification system for cryptocurrencies that monitors price changes and alerts users based on their watchlist.**
 
@@ -14,7 +14,7 @@
 
 ### Installation
 
-1. Clone the repository: `git clone git@github.com:Sirbinod/crypto-notifier-be.git`
+1. Clone the repository: `https://github.com/Sirbinod/crypto-notifier-be.git`
 2. Install dependencies: `npm install or yarn`
 3. Start the application: `npm dev or yarn dev`
 
